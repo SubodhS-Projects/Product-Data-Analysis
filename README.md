@@ -68,7 +68,7 @@ These insights can help the company focus more on what’s already working and f
 |------|---------|
 | **CSV** | Data source used |
 | **Power BI** | Building and visualizing the dashboard |
-| **Power Query** | Cleaning and preparing the data |
+| **Power Query Editor** | Cleaning and preparing the data |
 | **DAX** | Calculations and metrics inside Power BI |
 | **GitHub** | Storing and sharing the project online |
 
