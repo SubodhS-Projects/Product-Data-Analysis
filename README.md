@@ -50,6 +50,18 @@ Many businesses have a lot of sales data but don’t know how to use it. This pr
 
 ---
 
+## 🛠️ Tools Used
+
+| Tool | Purpose |
+|------|---------|
+| **CSV** | Data source used |
+| **Power BI** | Building and visualizing the dashboard |
+| **Power Query Editor** | Cleaning and preparing the data |
+| **DAX** | Calculations and metrics inside Power BI |
+| **GitHub** | Storing and sharing the project online |
+
+---
+
 ## 📋 What’s in the Dashboard
 
 - **Total Sales & Quantity Cards** – Quick look at overall performance  
@@ -76,20 +88,6 @@ These insights can help the company focus more on what’s already working and f
 
 ---
 
-## 🛠️ Tools Used
-
-| Tool | Purpose |
-|------|---------|
-| **CSV** | Data source used |
-| **Power BI** | Building and visualizing the dashboard |
-| **Power Query Editor** | Cleaning and preparing the data |
-| **DAX** | Calculations and metrics inside Power BI |
-| **GitHub** | Storing and sharing the project online |
-
----
-
----
-
 ## ✅ Recommendations
 
 - Study and replicate **top sales reps’ methods**
@@ -105,7 +103,6 @@ This dashboard helps everyone—from team leaders to top executives—understand
 > “Data tells the story. This dashboard makes it easy to read.”
 
 ---
-
 
 ## 📬 Contact
 
