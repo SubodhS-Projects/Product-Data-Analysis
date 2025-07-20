@@ -13,7 +13,7 @@ The goal is to make it easy for business leaders, marketing teams, and sales man
 
 ---
 
-## ❓ Why This Project Was Needed
+##  Why This Project Was Needed❓
 
 Many businesses have a lot of sales data but don’t know how to use it. This project helps solve that problem by turning numbers into clear visuals and insights like:
 
