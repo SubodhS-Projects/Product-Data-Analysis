@@ -120,7 +120,7 @@ This dashboard helps everyone—from team leaders to top executives—understand
 If you have questions or want to collaborate:
 
 **Subodh Shahare**  
-📧 Subodh.shahare.gmail.com  
+📧 Subodh.shahare@gmail.com  
 🌐 [LinkedIn Profile](https://www.linkedin.com/in/subodhshahare
 )
 
