@@ -36,6 +36,21 @@ Many businesses have a lot of sales data but don’t know how to use it. This pr
 
 ---
 
+---
+
+## ▶️ Getting Started
+
+### Prerequisites
+- Install **[Power BI Desktop](https://powerbi.microsoft.com/en-us/desktop/)**
+
+### Steps to Explore
+1. Clone this repository or download it as ZIP
+2. Open `dashboard/ProductSalesDashboard.pbix` in Power BI Desktop
+3. Review the visuals and interact with filters
+4. (Optional) Load your own data into the `sample_product_sales.csv` structure
+
+---
+
 ## 📋 What’s in the Dashboard
 
 - **Total Sales & Quantity Cards** – Quick look at overall performance  
@@ -73,18 +88,6 @@ These insights can help the company focus more on what’s already working and f
 | **GitHub** | Storing and sharing the project online |
 
 ---
----
-
-## ▶️ Getting Started
-
-### Prerequisites
-- Install **[Power BI Desktop](https://powerbi.microsoft.com/en-us/desktop/)**
-
-### Steps to Explore
-1. Clone this repository or download it as ZIP
-2. Open `dashboard/ProductSalesDashboard.pbix` in Power BI Desktop
-3. Review the visuals and interact with filters
-4. (Optional) Load your own data into the `sample_product_sales.csv` structure
 
 ---
 
