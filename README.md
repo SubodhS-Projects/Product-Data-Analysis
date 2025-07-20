@@ -36,7 +36,6 @@ Many businesses have a lot of sales data but don’t know how to use it. This pr
 
 ---
 
----
 
 ## ▶️ Getting Started
 
