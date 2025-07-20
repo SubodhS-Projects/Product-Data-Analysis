@@ -1,7 +1,6 @@
 # Product-Data-Analysis
-**By: Subodh Shahare**
-
-![Dashboard Preview](./images/Screenshot_Product%20Data%20Analysis%20Dashobard.png)
+> 🔗 **Created by [Subodh Shahare](https://www.linkedin.com/in/subodhshahare)**  
+> 🌐 [Visit My Portfolio](https://subodh-s.my.canva.site/home)
 
 ---
 
