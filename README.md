@@ -66,7 +66,7 @@ These insights can help the company focus more on what’s already working and f
 
 | Tool | Purpose |
 |------|---------|
-| **Excel/CSV** | Data source used |
+| **CSV** | Data source used |
 | **Power BI** | Building and visualizing the dashboard |
 | **Power Query** | Cleaning and preparing the data |
 | **DAX** | Calculations and metrics inside Power BI |
