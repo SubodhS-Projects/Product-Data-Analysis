@@ -48,7 +48,7 @@ Many businesses have a lot of sales data but don’t know how to use it. This pr
 
 ---
 
-## 🛠️ Tools Used
+## 🛠️ Resources and Tools Used
 
 | Tool | Purpose |
 |------|---------|
