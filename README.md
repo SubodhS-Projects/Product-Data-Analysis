@@ -114,19 +114,15 @@ This dashboard helps everyone—from team leaders to top executives—understand
 
 ---
 
-## 📜 License
-
-This project is shared under the [MIT License](LICENSE). You can use, modify, or share it freely with attribution.
-
----
 
 ## 📬 Contact
 
 If you have questions or want to collaborate:
 
 **Subodh Shahare**  
-📧 subodh.your.email@example.com  
-🌐 [LinkedIn Profile](https://linkedin.com/in/your-profile)
+📧 Subodh.shahare.gmail.com  
+🌐 [LinkedIn Profile](https://www.linkedin.com/in/subodhshahare
+)
 
 ---
 
