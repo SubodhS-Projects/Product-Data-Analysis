@@ -1,6 +1,4 @@
 # Product-Data-Analysis
-> 🔗 **Created by [Subodh Shahare](https://www.linkedin.com/in/subodhshahare)**  
-> 🌐 [Visit My Portfolio](https://subodh-s.my.canva.site/home)
 
 ---
 
@@ -9,6 +7,9 @@
 This Power BI dashboard helps businesses understand their **product sales** better. It shows how much is being sold, who is buying, which sales reps are doing well, and where most sales are happening.
 
 The goal is to make it easy for business leaders, marketing teams, and sales managers to **see what's working and what needs improvement**.
+
+> 🔗 **Created by [Subodh Shahare](https://www.linkedin.com/in/subodhshahare)**  
+> 🌐 [Visit My Portfolio](https://subodh-s.my.canva.site/home)
 
 ---
 
