@@ -90,19 +90,9 @@ These insights can help the company focus more on what’s already working and f
 
 ## ✅ Recommendations
 
-- Focus more on **Small Business customers**, who bring in the most revenue
 - Study and replicate **top sales reps’ methods**
 - Promote **laptops**, the top-selling category
 - Expand efforts in **Asia and North America**, which are high-performing regions
-
----
-
-## 🌟 Future Improvements
-
-- Connect to **live sales data**
-- Add **forecasting visuals** using AI tools in Power BI
-- Include **Customer Lifetime Value (CLV)** metrics
-- Add drill-downs to explore individual transactions
 
 ---
 
