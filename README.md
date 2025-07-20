@@ -94,7 +94,7 @@ These insights can help the company focus more on what’s already working and f
 
 ---
 
-## 🧾 Dashboard Preview and Summary
+## 🧾 Summary and Dashboard Preview 
 
 This dashboard helps everyone—from team leaders to top executives—understand sales in a simple, visual way. It shows where the company is doing well and where to improve, helping you make better, faster decisions.
 
