@@ -42,7 +42,7 @@ Many businesses have a lot of sales data but don’t know how to use it. This pr
 |-----------------------|---------|
 | **Total Sales**       | ₹993,150 total sales |
 | **Quantity Sold**     | 1,116 items sold |
-| **Top Customer Type** | Small Businesses (38% of total sales) |
+| **Top Customer Type** | **Enterprise** (41.5% of total sales) |
 | **Best-Selling Product** | Laptops (42% of sales) |
 | **Top Sales Rep**     | Alice Johnson (12.75% of total sales) |
 | **Top Region**        | Asia (23,878 sales) |
