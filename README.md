@@ -104,14 +104,15 @@ This dashboard helps everyone—from team leaders to top executives—understand
 
 ---
 
-## 📬 Contact
+## 📬 Let's Connect
 
-If you have questions or want to collaborate:
+I'm actively exploring new opportunities and collaborations!
 
-**Subodh Shahare**  
-📧 Subodh.shahare@gmail.com  
-🌐 [LinkedIn Profile](https://www.linkedin.com/in/subodhshahare
-)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/subodhshahare)  
+- 🌐 [My Portfolio Website](https://subodh-s.my.canva.site/home)  
+- 📧 [Email](mailto:Subodh.shahare@gmail.com)
 
 ---
+
+
 
