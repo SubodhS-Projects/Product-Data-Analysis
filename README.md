@@ -43,7 +43,7 @@ Many businesses have a lot of sales data but don’t know how to use it. This pr
 
 ### Steps to Explore
 1. Clone this repository or download it as ZIP
-2. Open `dashboard/ProductSalesDashboard.pbix` in Power BI Desktop
+2. Open `Product Data Analysis Dashboard.pbit` in Power BI Desktop
 3. Review the visuals and interact with filters
 4. (Optional) Load your own data into the `sample_product_sales.csv` structure
 
