@@ -36,6 +36,17 @@ Many businesses have a lot of sales data but don’t know how to use it. This pr
 
 ---
 
+## 📋 What’s in the Dashboard
+
+- **Total Sales & Quantity Cards** – Quick look at overall performance  
+- **Customer Segments Chart** – See who your customers are  
+- **Sales Rep Table** – Shows how each salesperson is doing  
+- **Region Chart** – Compare sales across regions  
+- **Product Category Chart** – Find your best-selling products  
+- **Filter Option** – Choose a specific region to explore deeper
+
+---
+
 ## 📌 Key Findings From the Data
 
 | Area                  | Insight |
@@ -48,17 +59,6 @@ Many businesses have a lot of sales data but don’t know how to use it. This pr
 | **Top Region**        | Asia (23,878 sales) |
 
 These insights can help the company focus more on what’s already working and fix areas that are not.
-
----
-
-## 📋 What’s in the Dashboard
-
-- **Total Sales & Quantity Cards** – Quick look at overall performance  
-- **Customer Segments Chart** – See who your customers are  
-- **Sales Rep Table** – Shows how each salesperson is doing  
-- **Region Chart** – Compare sales across regions  
-- **Product Category Chart** – Find your best-selling products  
-- **Filter Option** – Choose a specific region to explore deeper
 
 ---
 
